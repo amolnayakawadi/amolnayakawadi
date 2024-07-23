@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Nayakawadi</h1>
 <h3 align="center">a passionate data scientist with a master's degree in statistics and a keen interest in data science projects.</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 ">
 ">
 
