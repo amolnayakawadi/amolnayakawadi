@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolnayakawadi&label=Profile%20views&color=0e75b6&style=flat" alt="amolnayakawadi" /> </p>
 
-- 🔭 I’m currently interested in **data science, machine learning, and AI applications in various fields.**
+- 🔭 I’m currently interested in **data analytics,data science, machine learning, and AI applications in various fields.**
 
 - 🌱 I’m currently learning **advanced NLP techniques and deep learning models.**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/amol-nayakawadi-8a0356252](www.linkedin.com/in/amol-nayakawadi-8a0356252)
 
-- ⚡ Fun fact **I love exploring new technologies and have recently completed a project on text summarization using NLP.**
+- ⚡ Fun fact **I am learning pythong + kivy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
