@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amol Nayakawadi</h1>
-<h3 align="center">a passionate data scientist with a master's degree in statistics and a keen interest in data science projects.</h3>
+<h3 align="center">Hi there! 👋 I'm Amol, a passionate and enthusiastic Data Analyst with a keen interest in uncovering insights from data and solving real-world problems. With a strong foundation in statistics, data science, and programming, I thrive on turning raw data into actionable strategies that drive impact.</h3>
 
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 ">
